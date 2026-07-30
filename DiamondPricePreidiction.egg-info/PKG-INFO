@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: DiamondPricePreidiction
+Version: 0.0.1
+Author: vishal kumar
+Author-email: vk498800@gmail.com
+Requires-Dist: pandas
+Requires-Dist: flask
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: sklearn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
